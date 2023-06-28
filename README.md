@@ -1,5 +1,6 @@
 # LDM
 Language Detection Model
+
 In this Language Detection Model (NLP Project), I have built this model for the detection of five languages namely English, German, French, Spanish
 and Chinese Traditional etc.
 This model involves the use case of Text classification in NLP to build up a classification model and uses logistic regression for the language detection.
